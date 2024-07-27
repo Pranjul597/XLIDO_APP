@@ -1,2 +1,1 @@
-# XLIDO_APP
-Event Management App
+# XLIDO APP
